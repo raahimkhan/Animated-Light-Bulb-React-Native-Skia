@@ -3,8 +3,6 @@
 An animated swinging light bulb built entirely with [React Native Skia](https://shopify.github.io/react-native-skia/).  
 No external images, SVGs, or animation libraries used. I purely utilized Skia along with a touch of math and logic.
 
-<video src="https://github.com/raahimkhan/Animated-Light-Bulb-React-Native-Skia/raw/main/demo.mp4" controls width="100%" />
-
 ## 📦 Installation and Run Instructions
 
 1. Clone the repository
