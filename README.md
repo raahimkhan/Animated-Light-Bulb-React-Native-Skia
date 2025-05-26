@@ -3,6 +3,8 @@
 An animated swinging light bulb built entirely with [React Native Skia](https://shopify.github.io/react-native-skia/).  
 No external images, SVGs, or animation libraries used. I purely utilized Skia along with a touch of math and logic.
 
+Watch the demo video [here](https://drive.google.com/file/d/1BMZ20_iUjIIvBgtwTuWCZLJLnjnrezbI/view?usp=drive_link).
+
 ## 📦 Installation and Run Instructions
 
 1. Clone the repository
@@ -18,4 +20,4 @@ development builds: `eas build --profile development --platform all`
 `ios` native directories. After that execute the commands `npm run ios` and `npm run android`
 to generate iOS simulator and Android emulator development builds
 
-**Note:** If you are going with local builds, then make sure to follow the [Skia Installation Instructions for Android and iOS Local Builds](https://shopify.github.io/react-native-skia/docs/getting-started/installation/)
+**Note:** If you are going with local builds, then make sure to follow the [Skia Installation Instructions for Android and iOS Local Builds](https://shopify.github.io/react-native-skia/docs/getting-started/installation/).
